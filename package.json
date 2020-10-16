@@ -1,5 +1,5 @@
 {
-  "name": "ethlagos",
+  "name": "Ethlagos",
   "version": "1.0.0",
   "description": "",
   "main": "truffle-config.js",
@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/josefophe/ETHLagos1.git"
+    "url": "git+https://github.com/Timidan/ETHLagos1-main.git"
   },
-  "author": "josefophe@gmail.com",
+  "author": "akinnusotutemitayodaniel@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/josefophe/ETHLagos1/issues"
+    "url": "https://github.com/Timidan/ETHLagos1-main/issues"
   },
-  "homepage": "https://github.com/josefophe/ETHLagos1#readme"
+  "homepage": "https://github.com/Timidan/ETHLagos1-main#readme"
 }
